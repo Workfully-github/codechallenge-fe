@@ -1,5 +1,5 @@
 # Tasks Board
-Develop a Board with 4 columns: TODO/DOING/TESTING/DONE
+Develop a Board with 4 columns:  `BACKLOG` `TODO` `DOING` `DONE`
 
 ## Considerations:
 * Cards can only be moved by one column in any direction.
